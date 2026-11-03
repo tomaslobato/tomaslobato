@@ -1,6 +1,6 @@
 ## Hola, soy Tomás Lobato
 
-Creador de contenido y estudiante de ingeniería, a veces programo.
+Estudiante de ingeniería y creador de contenido, a veces programo.
 
 ### 🔗 Links
 <img src="https://cdn.simpleicons.org/youtube/FF0000" width="24" height="24" align="absmiddle"> [ Lobato](https://youtube.com/@tlobato)
